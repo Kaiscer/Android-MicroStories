@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/dimen"
+    >
+
+    <!-- El height del liner general debe ser wrap_contente para
+     que muestro todos los componentes -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="@dimen/dimen">
+
+        <TextView
+            android:id="@+id/tv_TitleS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/size_title"
+            android:layout_marginTop="@dimen/dimen"
+            android:text="TextProvicional1"
+            />
+
+        <TextView
+            android:id="@+id/tv_Advance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen"
+            android:text="TextoProvicional2"
+
+            />
+
+
+    </LinearLayout>
+
+</LinearLayout>

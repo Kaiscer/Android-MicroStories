@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Microcuento</string>
+    <string name="hint_et_name">Introduce aquí tu nombre</string>
+    <string name="btn_txt">Empazar!</string>
+    <string name="tv_Msg">Bienvenido!! Introduce tu nombre para ser el protagonista de los cuentos</string>
+    <string name="MsgNoName">Debes Introducir tu nombre</string>
+    <string name="tvTitleDino">El deseo del dinosaurio</string>
+    <string name="tvAdvanceDino">Enfurecido, entristecido y hambriento...</string>
+    <string name="tvStoryDino">Enfurecido, entristecido y hambriento, porque el T-Rex le había robado la presa que había casado, %s el velociraptor, al ver una estrella fugaz surcar los cielos en dirección a la tierra,  deseó, lleno de odio, que el mundo se acabara y que todos se extinguieran.</string>
+    <string name="tvTitleFugitiveLoves">Amores fugaces</string>
+    <string name="tvAdvanceFugitiveLoves">Cuando se fue a la cama...</string>
+    <string name="tvStoryFugitiveLoves">Cuando %s se fue a la cama, a pesar de haber tenido una día largo y complicado, recordó la efímera sonrisa que le dedicó aquel desconocido que se cruzó en su camino y, olvidándose de todo, se quedó dormido con una gran sonrisa en los labios.</string>
+    <string name="tvTitleBirthdayWish">El deseo de cumpleaños</string>
+    <string name="tvAdvanceBirthdayWish">Mientras le cantaban el cumpleaños...</string>
+    <string name="tvStoryBirthdayWish">Mientras le cantaban el cumpleaños, %s cerró fuertemente los ojos y se concentró en pedir su deseo con todas sus fuerzas y, cuando finalmente sopló las velitas, de la nada, se materializó un pony rosado que cayó sobre el pastel, salpicando a todos los presentes.</string>
+    <string name="tvTitleMutantAnt">La venganza de la hormiga mutante</string>
+    <string name="tvAdvanceMutantAnt">Después de alcanzar un tamaño gigantesco...</string>
+    <string name="tvStoryMutantAnt">Después de alcanzar un tamaño gigantesco, por meterse en un barril de desecho toxicos, lo primero que hizo %s, la no-tan pequeña hormiguita, fue dirigirse a la primera ciudad que vio a lo lejos, para  aplastar, con su nuevo gigantesco pie, los edificios y casas de los humanos, tal como uno de ellos había hecho con su hormiguero, hace mucho tiempo, en el bosque donde vivía.</string>
+    <string name="tvTitleWriterVampire">El escritor vampiro</string>
+    <string name="tvAdvanceWriterVampire">A lo que los primeros rayos...</string>
+    <string name="tvStoryWriterVampire">A lo que los primeros rayos de sol empezaban a asomarse por la ventana, %s guardaba todo su trabajo y caía, rendido, hasta el anochecer; momento en el cual despertaba con los dedos y las ideas listas para escribir toda la noche.</string>
+    <string name="tvTitleTheCloud">La nube</string>
+    <string name="tvAdvanceTheCloud">Cuando se asomó por la ventanilla...</string>
+    <string name="tvStoryTheCloud">Cuando %s se asomó por la ventanilla del avión vio, horrorizado, cómo todas sus fotos y videos privados estaban flotando en  las nubes. Aterrado, cerró la ventanilla y miró a su alrededor; afortunadamente, nadie más las vio, todos los demás pasajeros estaban durmiendo. Sin embargo, ya estaba decidido, tan pronto aterrizaran iba a eliminar el respaldo de su computadora que había subido a la nube.</string>
+    <string name="tvTitleGreekLove">Amor griego, fuego griego</string>
+    <string name="tvAdvanceGreekLove">Frustrada consigo misma...</string>
+    <string name="tvStoryGreekLove">%s, frustrada consigo misma, después que lo abofeteó, sintió en la palma de su mano el placentero ardor producido por el fuego que nunca dejó de sentir cada vez que lo tocaba.</string>
+    <string name="tvTitleTheBackpacker">El mochilero</string>
+    <string name="tvAdvanceTheBackpacker">Todo es tan diferente’ pensó...</string>
+    <string name="tvStoryTheBackpacker">odo es tan diferente’ pensó %s  cuando regresó de su viaje, a pesar de que nada hubiera cambiado durante el año y medio que estuvo recorriendo el mundo.</string>
+    <string name="tvTitleTheEternalWinter">El invierno eterno</string>
+    <string name="tvAdvanceTheEternalWinter">Justo cuando empezó a pensar ...</string>
+    <string name="tvStoryTheEternalWinter">%sJusto cuando empezó a pensar que el invierno nunca acabaría, se percató de que, entre la gruesa capa de nieve que cubría su jardín de rosas, un pequeñísimo pimpollo comenzaba a abrirse camino.</string>
+    <string name="nameChoose">EligeCuento</string>
+    <string name="nameRead">LeeCuento</string>
+</resources>
